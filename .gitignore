@@ -14,3 +14,10 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+#pkl 파일
+processed/
+*.pkl
+
+#practice 파일
+practice/
